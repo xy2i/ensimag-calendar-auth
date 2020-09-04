@@ -22,5 +22,7 @@ Vous obtiendrez une URL du type: https://gentle-plains-66055.herokuapp.com/
 
 2. Allez dans le dashboard Heroku, sélectionnez le serveur, puis allez dans "Settings".
 3. Dans la section "Config Vars", cliquez sur "Reveal Config Vars", puis renseignez les variables:
-(photo)
+
+[![Variables environnement dans le dashboard Heroku](env_heroku.png)
+
 4. Dans votre application, par exemple Google Calendar, renseignez l'url de Heroku. Vous obtiendrez le calendrier.
