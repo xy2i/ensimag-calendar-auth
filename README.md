@@ -11,6 +11,8 @@ Il y a trois variables d'environnement:
 
 Pour obtenir l'URL, suivez ce guide: [Emplois du temps en ligne avec ADE (Ensiwiki)](https://ensiwiki.ensimag.fr/index.php?title=Emplois_du_temps_en_ligne_avec_ADE#Importation_par_URL_avec_un_client_lourd_de_calendrier_.28e.g._Thunderbird.29)
 
+Votre URL change chaque semestre, en fonction des cours que vous avez pris. N'oubliez pas de la mettre a jour chaque semestre.
+
 ### Déploiement Heroku (simple)
 
 Heroku vous permet d'avoir un serveur local sans avoir besoin d'acheter des serveurs. Vous devrez vous créer un compte Heroku.
